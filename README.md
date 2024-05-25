@@ -1,8 +1,8 @@
-# React + Vite
+# 📽️Movie Streaming
+Movie Streaming is a web application built using React (Vite). With this app, users can search for any movie they want to watch, add movies to their favorites list, and remove them from the list. The app uses local storage to store data, Bootstrap for design, and the OMDb API to fetch movie information.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🛠️Features
+* Search Movies: Find any movie using the search functionality.
+* Favorite Movies: Add movies to your favorites list.
+* Remove Favorites: Remove movies from your favorites list.
+* Local Storage: Persist favorite movies data using local storage.
